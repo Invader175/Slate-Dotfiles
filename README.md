@@ -1,2 +1,2 @@
 # Slate-Dotfiles
-![Screenshot](https://octodex.github.com/images/yaktocat.png)
+![Screenshot](2019-05-03-081548_2560x1440_scrot.png)
